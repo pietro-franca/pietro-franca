@@ -8,7 +8,7 @@ Curto criar soluções digitais funcionais e bem pensadas, que resolvam problema
 
 ### Formação
 
-Cursando Ciência da Computação na UNESP - Rio Claro, em que venho aprofundando meus conhecimentos em lógica, programação e engenharia de software. Tenho afinidade com o desenvolvimento web e estou sempre em busca de aprender novas tecnologias e ferramentas.
+Cursando Ciência da Computação na UNESP - Rio Claro, onde venho aprofundando meus conhecimentos em lógica, programação e engenharia de software. Tenho afinidade com o desenvolvimento web e estou sempre em busca de aprender novas tecnologias e ferramentas.
 
 ### Tecnologias
 
