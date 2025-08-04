@@ -1,16 +1,16 @@
 # Pietro Franca
 
-## Desenvolvedor Full-Stack
+## Full-Stack Developer
 
-### Sobre Mim
+### About me
 
-Curto criar soluções digitais funcionais e bem pensadas, que resolvam problemas reais do cotidiano. Já atuei em projetos de extensão e desenvolvimento, onde pude colaborar em equipe, desenvolver habilidades interpessoais e me preparar para os desafios do setor de tecnologia. Além disso, tenho trabalhado em projetos pessoais, a fim de colocar meus conhecimentos em prática.
+I enjoy creating functional and well-thought-out digital solutions that solve real everyday problems. I have worked on extension and development projects, where I was able to collaborate as part of a team, develop interpersonal skills, and prepare myself for the challenges of the technology sector. In addition, I have been working on personal projects in order to put my knowledge into practice.
 
-### Formação
+### Education
 
-Cursando Ciência da Computação na UNESP - Rio Claro, onde venho aprofundando meus conhecimentos em lógica, programação e engenharia de software. Tenho afinidade com o desenvolvimento web e estou sempre em busca de aprender novas tecnologias e ferramentas.
+Currently studying Computer Science at UNESP - Rio Claro, where I am deepening my knowledge of logic, programming, and software engineering. I have an affinity for web development and am always looking to learn new technologies and tools.
 
-### Tecnologias
+### Technologies
 
 
 <img 
