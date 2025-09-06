@@ -4,11 +4,11 @@
 
 ### About me
 
-I enjoy creating functional and well-thought-out digital solutions that solve real everyday problems. I have worked on extension and development projects, where I was able to collaborate as part of a team, develop interpersonal skills, and prepare myself for the challenges of the technology sector. In addition, I have been working on personal projects in order to put my knowledge into practice.
+I’m always looking to learn and grow, and I love building practical, thoughtful digital solutions that make everyday life a bit easier!
 
 ### Education
 
-Currently studying Computer Science at UNESP - Rio Claro, where I am deepening my knowledge of logic, programming, and software engineering. I have an affinity for web development and am always looking to learn new technologies and tools.
+Currently studying Computer Science at UNESP - Rio Claro, where I am deepening my knowledge of logic, programming, and software engineering.
 
 ### Technologies
 
