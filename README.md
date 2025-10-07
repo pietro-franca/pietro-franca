@@ -51,24 +51,6 @@ Currently studying Computer Science at UNESP - Rio Claro, where I am deepening m
 
 <img 
   align="left"
-  alt="Node.js"
-  title="Node.js"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
-/>
-
-<img 
-  align="left"
-  alt="PostgreSQL"
-  title="PostgreSQL"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
-/>
-
-<img 
-  align="left"
   alt="Java"
   title="Java"
   width="40px"
@@ -103,13 +85,41 @@ Currently studying Computer Science at UNESP - Rio Claro, where I am deepening m
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 
+
 <img 
   align="left"
-  alt="Git"
-  title="Git"
+  alt="Node.js"
+  title="Node.js"
   width="40px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+/>
+
+<img 
+  align="left"
+  alt="PostgreSQL"
+  title="PostgreSQL"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
+/>
+
+<img 
+  align="left"
+  alt="React.js"
+  title="React.js"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="Next.js"
+  title="Next.js"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
 <img 
@@ -123,9 +133,18 @@ Currently studying Computer Science at UNESP - Rio Claro, where I am deepening m
 
 <img 
   align="left"
-  alt="Bootstrap"
-  title="Bootstrap"
+  alt="Sass"
+  title="Sass"
   width="40px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="Git"
+  title="Git"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
