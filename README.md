@@ -60,15 +60,6 @@ Currently studying Computer Science at UNESP - Rio Claro, where I am deepening m
 
 <img 
   align="left"
-  alt="Python"
-  title="Python"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-  align="left"
   alt="C"
   title="C"
   width="40px"
@@ -93,6 +84,15 @@ Currently studying Computer Science at UNESP - Rio Claro, where I am deepening m
   width="40px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+/>
+
+<img 
+  align="left"
+  alt="FastAPI"
+  title="FastAPI"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" 
 />
 
 <img 
