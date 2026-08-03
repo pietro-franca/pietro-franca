@@ -12,25 +12,6 @@ Currently studying Computer Science at UNESP - Rio Claro, where I am deepening m
 
 ### Technologies
 
-
-<img 
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
 <img 
   align="left"
   alt="Javascript"
@@ -48,6 +29,17 @@ Currently studying Computer Science at UNESP - Rio Claro, where I am deepening m
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
+
+<img 
+  align="left"
+  alt="Python"
+  title="Python"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+          
 
 <img 
   align="left"
@@ -88,24 +80,6 @@ Currently studying Computer Science at UNESP - Rio Claro, where I am deepening m
 
 <img 
   align="left"
-  alt="FastAPI"
-  title="FastAPI"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" 
-/>
-
-<img 
-  align="left"
-  alt="PostgreSQL"
-  title="PostgreSQL"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
-/>
-
-<img 
-  align="left"
   alt="React.js"
   title="React.js"
   width="40px"
@@ -124,20 +98,56 @@ Currently studying Computer Science at UNESP - Rio Claro, where I am deepening m
 
 <img 
   align="left"
-  alt="Bootstrap"
-  title="Bootstrap"
+  alt="TailwindCSS"
+  title="TailwindCSS"
   width="40px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
 <img 
   align="left"
-  alt="Sass"
-  title="Sass"
+  alt="PostgreSQL"
+  title="PostgreSQL"
   width="40px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
+/>
+
+<img 
+  align="left"
+  alt="MySQL"
+  title="MySQL"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="Docker"
+  title="Docker"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
+/>
+
+<img 
+  align="left"
+  alt="AWS"
+  title="AWS"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+/>
+
+<img 
+  align="left"
+  alt="Jenkins"
+  title="Jenkins"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
 />
 
 <img 
